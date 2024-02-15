@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bebfc1ee-e295-43ea-a9ef-9890ef40d13e" name="Changes" comment="Implementação de laço e simplificação de código">
+    <list default="true" id="bebfc1ee-e295-43ea-a9ef-9890ef40d13e" name="Changes" comment="adicao de rodadas ao jogo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/adivinhacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/adivinhacao.py" afterDir="false" />
     </list>
@@ -89,12 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707885169878</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="adicao de rodadas ao jogo">
+      <option name="closed" value="true" />
+      <created>1707955455010</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707955455010</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="version 1" />
     <MESSAGE value="Implementação de laço e simplificação de código" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementação de laço e simplificação de código" />
+    <MESSAGE value="adicao de rodadas ao jogo" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicao de rodadas ao jogo" />
   </component>
 </project>
