@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bebfc1ee-e295-43ea-a9ef-9890ef40d13e" name="Changes" comment="adicao de rodadas ao jogo">
+    <list default="true" id="bebfc1ee-e295-43ea-a9ef-9890ef40d13e" name="Changes" comment="mudança de laço, while para for e otimizacao de linhas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/adivinhacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/adivinhacao.py" afterDir="false" />
     </list>
@@ -97,13 +97,22 @@
       <option name="project" value="LOCAL" />
       <updated>1707955455010</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="mudança de laço, while para for e otimizacao de linhas">
+      <option name="closed" value="true" />
+      <created>1708020208153</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708020208153</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="version 1" />
     <MESSAGE value="Implementação de laço e simplificação de código" />
     <MESSAGE value="adicao de rodadas ao jogo" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicao de rodadas ao jogo" />
+    <MESSAGE value="mudança de laço, while para for e otimizacao de linhas" />
+    <option name="LAST_COMMIT_MESSAGE" value="mudança de laço, while para for e otimizacao de linhas" />
   </component>
 </project>
