@@ -64,10 +64,13 @@ for rodada in range(1, total_de_tentativas + 1):
         break
     elif (chute_maior):
         print("Você errou! O seu chute foi maior do que o número secreto!")
-        pontos = pontos - (chute - numero_secreto)
+        pontos_perdidos = abs(numero_secreto - chute)
+        pontos = pontos - pontos_perdidos
+
     elif (chute_menor):
         print("Você errou! O seu chute foi menor do que o número secreto!")
-        pontos = pontos - (numero_secreto - chute)
+        pontos_perdidos = abs(numero_secreto - chute)
+        pontos = pontos - pontos_perdidos
 
 # Condição caso não acerte o número
 else:
