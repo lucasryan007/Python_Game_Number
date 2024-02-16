@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bebfc1ee-e295-43ea-a9ef-9890ef40d13e" name="Changes" comment="adicao de limitador entre numero minimo e maximo">
+    <list default="true" id="bebfc1ee-e295-43ea-a9ef-9890ef40d13e" name="Changes" comment="Adicao de aleatoriedade no numero secreto e formatacao de interpolacao">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adivinhacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/adivinhacao.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708109058411</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Adicao de aleatoriedade no numero secreto e formatacao de interpolacao">
+      <option name="closed" value="true" />
+      <created>1708112840145</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708112840145</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -121,6 +130,7 @@
     <MESSAGE value="adicao de rodadas ao jogo" />
     <MESSAGE value="mudança de laço, while para for e otimizacao de linhas" />
     <MESSAGE value="adicao de limitador entre numero minimo e maximo" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicao de limitador entre numero minimo e maximo" />
+    <MESSAGE value="Adicao de aleatoriedade no numero secreto e formatacao de interpolacao" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicao de aleatoriedade no numero secreto e formatacao de interpolacao" />
   </component>
 </project>
