@@ -1,16 +1,20 @@
 # Dificuldade do jogo
-total_de_tentativas = 5
-numero_secreto = 42
+total_de_tentativas = 8
+numero_secreto = 1
 numero_minimo = 1
 numero_maximo = 100
 
+# Torna o número secreto diferente a cada rodada
+import random
+numero_secreto = random.randint(numero_minimo, numero_maximo)
+
 # Mensagem de Boas Vindas
-print("*Bem vindo ao jogo de Adivinhação :) Você terá {} chances para advinhar o número secreto*".format(total_de_tentativas))
+print("*Bem vindo ao jogo de Adivinhação :) Você terá {:02d} chances para advinhar o número secreto*".format(total_de_tentativas))
 
 # Condição para jogo
 for rodada in range (1, total_de_tentativas + 1):
-    print("Tentativa {} de {}".format(rodada, total_de_tentativas))
-    chute = int(input("Digite um número entre {} e {}: ".format(numero_minimo, numero_maximo)))
+    print("Tentativa {:02d} de {:02d}".format(rodada, total_de_tentativas))
+    chute = int(input("Digite um número entre {:02d} e {:02d}: ".format(numero_minimo, numero_maximo)))
     acertou_numero = numero_secreto == chute
     chute_maior = numero_secreto < chute
     chute_menor = numero_secreto > chute
