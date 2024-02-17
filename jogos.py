@@ -1,5 +1,5 @@
 
-def escolhe_jogo ():
+def escolhe_jogo():
     # Mensagem de boas vindas
     print("*Bem vindo ao Lobby dos jogos!*")
     print("(1) Forca (2) Adivinhação")
@@ -27,3 +27,4 @@ def escolhe_jogo ():
 
 if (__name__ == "__main__"):
     escolhe_jogo()
+

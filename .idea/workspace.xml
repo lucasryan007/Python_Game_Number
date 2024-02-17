@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bebfc1ee-e295-43ea-a9ef-9890ef40d13e" name="Changes" comment="criacao de dois novos arquivos, forca.py e jogos.py">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adivinhacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/adivinhacao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forca.py" beforeDir="false" afterPath="$PROJECT_DIR$/forca.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jogos.py" beforeDir="false" afterPath="$PROJECT_DIR$/jogos.py" afterDir="false" />
-    </list>
+    <list default="true" id="bebfc1ee-e295-43ea-a9ef-9890ef40d13e" name="Changes" comment="criacao de hub para os jogos e adicao de condicao para roda-los individualmente" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708199809785</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="criacao de hub para os jogos e adicao de condicao para roda-los individualmente">
+      <option name="closed" value="true" />
+      <created>1708204035154</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708204035154</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -215,6 +218,7 @@
     <MESSAGE value="mudança de laço, while para for e otimizacao de linhas" />
     <MESSAGE value="adicao de limitador entre numero minimo e maximo" />
     <MESSAGE value="criacao de dois novos arquivos, forca.py e jogos.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="criacao de dois novos arquivos, forca.py e jogos.py" />
+    <MESSAGE value="criacao de hub para os jogos e adicao de condicao para roda-los individualmente" />
+    <option name="LAST_COMMIT_MESSAGE" value="criacao de hub para os jogos e adicao de condicao para roda-los individualmente" />
   </component>
 </project>

@@ -1,15 +1,13 @@
 
-def jogar ():
+def jogar():
     # Mensagem de Boas Vindas e importações
     import random
     print("*Bem vindo ao jogo de Adivinhação :)*")
     print("Escolha o nível de dificuldade:")
     print("(1) Fácil (2) Médio (3) Difícil")
 
-
     # Variaveis de dificuldade do jogo e pontuação
     total_de_tentativas = 8
-    numero_secreto = 80
     numero_minimo = 1
     numero_maximo = 100
     nivel = 0
